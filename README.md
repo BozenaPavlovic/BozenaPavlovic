@@ -2,7 +2,6 @@
 
 Second year Information Technology student
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BozenaPavlovic)
 ![Streak](https://streak-stats.demolab.com?user=BozenaPavlovic)
 
 ## My Photography Work
