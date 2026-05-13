@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there :3 
 
-## 📸 My Photography Work
+## My Photography Work
 
 I graduated as a photographer and my final project was **food photography**.
 
 Here are some of my works:
-## 📸 Food Photography – Final Project
+## Food Photography – Final Project
 
 Here are some of my food photography works from my final exam project.
 
