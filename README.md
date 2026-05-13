@@ -20,9 +20,7 @@
   <img src="DSC_3467-2.jpg" width="200">
   <img src="DSC_5841.jpg" width="200">
   <img src="DSC_5866-2.jpg" width="200">
-</p>
 
-<p align="center">
   <img src="MAQ_0666.jpg" width="200">
   <img src="MAQ_1868.jpg" width="200">
 </p>
