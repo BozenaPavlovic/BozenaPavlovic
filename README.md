@@ -1,5 +1,9 @@
 ## Hi there :3 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BozenaPavlovic&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=BozenaPavlovic)
+
 ## My Photography Work
 
 I graduated as a photographer and my final project was **food photography**.
