@@ -1,5 +1,7 @@
 ## Hi there :3 
 
+Second year Information Technology student
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BozenaPavlovic&show_icons=true)
 
 ![Streak](https://streak-stats.demolab.com?user=BozenaPavlovic)
