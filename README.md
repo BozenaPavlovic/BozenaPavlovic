@@ -1,17 +1,21 @@
-## Hi there :3 
+<h1 align="center">💖 Hello : 3 💖</h1>
 
-Second year Information Technology student
+<p align="center">
+🌸 Second year IT student <br>
+📍 Zadar, Croatia <br>
+📸 Photographer (Food Photography) <br>
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=BozenaPavlovic)
+---
 
-## My Photography Work
+## 💗 About Me
+- I graduated as a photographer and did a **food photography as final project**    
 
-I graduated as a photographer and my final project was **food photography**.
+---
 
-Here are some of my works:
-## Food Photography – Final Project
+## 🍰 My Photography Work
 
-Here are some of my food photography works from my final exam project.
+💗 Here are some of my food photography images from my final exam project:
 
 <p align="center">
   <img src="DSC_3467-2.jpg" width="200">
@@ -27,4 +31,18 @@ Here are some of my food photography works from my final exam project.
 
 <p align="center">
   <img src="završni 1.jpg" width="300">
+</p>
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring,flask,git,github,sqlite" />
+</p>
+
+
+<p align="center">
+💖
+
 </p>
