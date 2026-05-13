@@ -8,19 +8,18 @@
 
 ---
 
-## 💗 About Me
+### About Me
 - I graduated as a photographer and did a **food photography as final project**    
 
 ---
 
-## 🍰 My Photography Work
-
-💗 Here are some of my food photography images from my final exam project:
+### My Photography Work
+ Here are some of my food photography images from my final exam project:
 
 <p align="center">
-  <img src="DSC_3467-2.jpg" width="200">
-  <img src="DSC_5841.jpg" width="200">
-  <img src="DSC_5866-2.jpg" width="200">
+  <img src="DSC_3467-2.jpg" width="100">
+  <img src="DSC_5841.jpg" width="100">
+  <img src="DSC_5866-2.jpg" width="100">
 </p>
 
 <p align="center">
