@@ -1,7 +1,8 @@
 <h1 align="center">💖 Hello : 3 💖</h1>
 
 <p align="center">
-🌸 Second year IT student <br>
+- Name  Božena Pavlović
+- Second year IT student <br>
 📍 Zadar, Croatia <br>
 📸 Photographer (Food Photography) <br>
 </p>
