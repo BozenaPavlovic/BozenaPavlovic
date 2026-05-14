@@ -37,6 +37,23 @@ Here are some of my food photography from my final exam project:
 
 ---
 
+<p align="center">
+  <img src="food-photography/DSC_3467-2.jpg" width="220">
+  <img src="food-photography/DSC_5841.jpg" width="220">
+  <img src="food-photography/DSC_5866-2.jpg" width="220">
+</p>
+
+<p align="center">
+  <img src="food-photography/DSC_5887-2.jpg" width="220">
+  <img src="food-photography/MAQ_0666.jpg" width="220">
+  <img src="food-photography/MAQ_1852.jpg" width="220">
+</p>
+
+<p align="center">
+  <img src="food-photography/MAQ_1862.jpg" width="220">
+  <img src="food-photography/MAQ_1868.jpg" width="220">
+</p>
+
 Here are some photos of Zadar (old town)
 
 <p align="center">
