@@ -34,7 +34,6 @@ Here are some of my food photography from my final exam project:
 
   <img src="food-photography/MAQ_1862.jpg" width="200">
   <img src="food-photography/MAQ_1868.jpg" width="200">
-  <img src="food-photography/zavrsni-1.jpg" width="300">
 </p>
 
 ---
