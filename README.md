@@ -43,6 +43,14 @@ Here are some photos of Zadar (old town)
   <img src="Zadar-photography/DSC_1342.JPG" width="200">
   <img src="Zadar-photography/DSC_1347.JPG" width="200">
   <img src="Zadar-photography/DSC_2426.jpg" width="200">
+
+  <img src="Zadar-photography/DSC_2673.jpg" width="200">
+  <img src="Zadar-photography/DSC_2144.jpg" width="200">
+  <img src="Zadar-photography/DSC_2156.jpg" width="200">
+
+  <img src="Zadar-photography/DSC_6725.jpg" width="200">
+  <img src="Zadar-photography/MAQ_2204.JPG" width="200">
+
 </p>
 
 <p align="center">
