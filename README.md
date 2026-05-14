@@ -40,18 +40,23 @@ Here are some of my food photography from my final exam project:
 Here are some photos of Zadar (old town)
 
 <p align="center">
+  <img src="Zadar-photography/DSC_2673.jpg" width="180">
+  <img src="Zadar-photography/DSC_6719 1.jpg" width="180">
+  <img src="Zadar-photography/DSC_2556.jpg" width="180">
+  <img src="Zadar-photography/uređenaDSC_2794.jpg" width="180">
+  <img src="Zadar-photography/uređenaDSC_2828.jpg" width="180">
+</p>
+
+<p align="center">
   <img src="Zadar-photography/DSC_1342.JPG" width="200">
   <img src="Zadar-photography/DSC_1347.JPG" width="200">
   <img src="Zadar-photography/DSC_2426.jpg" width="200">
 
-  <img src="Zadar-photography/DSC_2673.jpg" width="200">
   <img src="Zadar-photography/DSC_2144.jpg" width="200">
   <img src="Zadar-photography/DSC_2156.jpg" width="200">
-
   <img src="Zadar-photography/DSC_6725.jpg" width="200">
-  <img src="Zadar-photography/MAQ_2204.JPG" width="200">
-
 </p>
+
 
 <p align="center">
 💖
