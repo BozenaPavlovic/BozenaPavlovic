@@ -39,7 +39,11 @@ Here are some of my food photography from my final exam project:
 
 Here are some photos of Zadar (old town)
 
-
+<p align="center">
+  <img src="Zadar-photography/DSC_1342.JPG" width="200">
+  <img src="Zadar-photography/DSC_1347.JPG" width="200">
+  <img src="Zadar-photography/DSC_2426.jpg" width="200">
+</p>
 
 <p align="center">
 💖
