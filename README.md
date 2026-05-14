@@ -23,18 +23,17 @@
 Here are some of my food photography from my final exam project:
 
 <p align="center">
-  <img src="food-photography/DSC_3467-2.jpg" width="220">
-  <img src="food-photography/DSC_5841.jpg" width="220">
-  <img src="food-photography/DSC_5866-2.jpg" width="220">
+  <img src="food-photography/DSC_3467-2.jpg" width="225">
+  <img src="food-photography/DSC_5841.jpg" width="225">
+  <img src="food-photography/DSC_5866-2.jpg" width="225">
 
-  <img src="food-photography/DSC_5887-2.jpg" width="220">
-  <img src="food-photography/MAQ_0666.jpg" width="220">
-  <img src="food-photography/MAQ_1852.jpg" width="220">
+  <img src="food-photography/DSC_5887-2.jpg" width="225">
+  <img src="food-photography/MAQ_0666.jpg" width="225">
+  <img src="food-photography/MAQ_1852.jpg" width="225">
 
-  <img src="food-photography/MAQ_1862.jpg" width="220">
-  <img src="food-photography/MAQ_1868.jpg" width="220">
+  <img src="food-photography/MAQ_1862.jpg" width="225">
+  <img src="food-photography/MAQ_1868.jpg" width="225">
 </p>
----
 
 
 Here are some photos of Zadar (old town)
@@ -48,13 +47,13 @@ Here are some photos of Zadar (old town)
 </p>
 
 <p align="center">
-  <img src="Zadar-photography/DSC_1342.JPG" width="200">
-  <img src="Zadar-photography/DSC_1347.JPG" width="200">
-  <img src="Zadar-photography/DSC_2426.jpg" width="200">
+  <img src="Zadar-photography/DSC_1342.JPG" width="225">
+  <img src="Zadar-photography/DSC_1347.JPG" width="225">
+  <img src="Zadar-photography/DSC_2426.jpg" width="225">
 
-  <img src="Zadar-photography/DSC_2144.jpg" width="200">
-  <img src="Zadar-photography/DSC_2156.jpg" width="200">
-  <img src="Zadar-photography/DSC_6725.jpg" width="200">
+  <img src="Zadar-photography/DSC_2144.jpg" width="225">
+  <img src="Zadar-photography/DSC_2156.jpg" width="225">
+  <img src="Zadar-photography/DSC_6725.jpg" width="225">
 </p>
 
 
