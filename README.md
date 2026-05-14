@@ -27,21 +27,13 @@ Here are some of my food photography from my final exam project:
   <img src="food-photography/DSC_3467-2.jpg" width="200">
   <img src="food-photography/DSC_5841.jpg" width="200">
   <img src="food-photography/DSC_5866-2.jpg" width="200">
-</p>
 
-<p align="center">
   <img src="food-photography/DSC_5887-2.jpg" width="200">
   <img src="food-photography/MAQ_0666.jpg" width="200">
   <img src="food-photography/MAQ_1852.jpg" width="200">
-</p>
 
-<p align="center">
-  <img src="food-photography/MAQ_1853.jpg" width="200">
   <img src="food-photography/MAQ_1862.jpg" width="200">
   <img src="food-photography/MAQ_1868.jpg" width="200">
-</p>
-
-<p align="center">
   <img src="food-photography/zavrsni-1.jpg" width="300">
 </p>
 
