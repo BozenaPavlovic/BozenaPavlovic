@@ -7,6 +7,12 @@
 </p>
 
 ---
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring,flask,git,github,sqlite" />
+</p>
+
 
 ### About Me
 - I graduated as a photographer and did a **food photography as final project**    
@@ -31,11 +37,6 @@
 
 ---
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring,flask,git,github,sqlite" />
-</p>
 
 
 <p align="center">
