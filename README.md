@@ -15,8 +15,7 @@
 
 
 ### About Me
-- I graduated as a photographer and did a **food photography as final project**    
-
+- I graduated from the School of Applied Arts and Design in Zadar, specializing in photography. My final project focused on food photography.  
 ---
 
 ### My Photography Work
