@@ -2,7 +2,7 @@
 
 <p align="center">
 - Name  Božena Pavlović
-- Second year IT student <br>
+- Third year IT student <br>
 📍 Zadar, Croatia <br>
 📸 Photographer (Food Photography) <br>
 </p>
